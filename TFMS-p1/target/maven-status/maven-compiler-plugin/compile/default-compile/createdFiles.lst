@@ -1,0 +1,6 @@
+com\revature\model\Trainer.class
+com\revature\tfms\services\AddTrainer.class
+com\revature\tfms\database\DatabaseConnection.class
+com\revature\dao\TrainerDao.class
+com\revature\tfms\controler\LoginServlet.class
+com\revature\tfms\services\UpdateServlet.class
